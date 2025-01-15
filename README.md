@@ -1,2 +1,2 @@
 # CSC-249
-Data Structures repo
+Everything for Data Structures material & work
